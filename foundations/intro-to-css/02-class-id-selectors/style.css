@@ -1,0 +1,17 @@
+.first{
+    background-color: rgb(242, 142, 169);
+    font-family: 'Verdana' 'DejaVu Sans' sans-serif ;
+}
+
+#sec{
+    color: blue;
+    font-size: 36px;
+}
+
+.first#third{
+    font-size: 26px;
+}
+#green{
+    background-color: lightgreen;
+    font-weight: bold;
+}
