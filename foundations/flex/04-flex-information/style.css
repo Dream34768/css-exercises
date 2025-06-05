@@ -6,10 +6,32 @@ img {
   width: 100px;
   height: 100px;
 }
+.stuff{
+  display: flex;
+  gap: 52px;
+  
+  
+
+}
+.plant .text{
+  display: flex;
+  flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.plant {
+  flex-basis: 200px;
+  justify-items: center;
+  
+}
+.plant img{
+  
+}
 
 .title {
   font-size: 36px;
-  font-weight: 900;
+  font-weight: 900; 
+  gap: 32px;
+  justify-self: center;
 }
 
 /* do not edit this footer */
