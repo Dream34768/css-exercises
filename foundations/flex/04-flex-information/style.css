@@ -9,9 +9,7 @@ img {
 .stuff{
   display: flex;
   gap: 52px;
-  
-  
-
+  margin: 32px;
 }
 .plant .text{
   display: flex;
